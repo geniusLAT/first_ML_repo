@@ -1,0 +1,5 @@
+uvicorn
+fastapi
+einops
+streamlit
+pipeline-ai
