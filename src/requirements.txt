@@ -3,3 +3,4 @@ fastapi
 einops
 streamlit
 pipeline-ai
+transformers
