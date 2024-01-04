@@ -1,6 +1,6 @@
 
 :loop
-python3 main.py
+python main.py
 echo nice
 pause
 goto loop
