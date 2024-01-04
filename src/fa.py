@@ -1,5 +1,6 @@
 from fastapi import FastAPI
 
+
 app = FastAPI()
 import model
 
@@ -25,3 +26,4 @@ async def process_text(text: str):
         print("It is error on line 25:" +str(e))
         print("Error inside the processing")
         return {"result": "None"}
+
